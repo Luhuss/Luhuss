@@ -6,7 +6,7 @@
 <div align="center">Hola soy Luis Maraboli, Python developer trainee 👨‍💻 en busca de nuevas experiencias laborales y de desarrollo. 🚀</div>  
   
 
-- 🔭 Estoy trabajando actualmente en los siguientes proyectos (https://github.com/fulanito)  
+- 🔭 Estoy trabajando actualmente en los siguientes proyectos (https://github.com/luhuss)  
   
 
 - 🌱 Me encuentro actualmente aprendiendo y practicando Amazon Web Service y Azure  
